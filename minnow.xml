@@ -9,6 +9,6 @@
   <project name="omap3dev/android_device_motorola_minnow" path="device/motorola/minnow" remote="github" revision="cm-14.1" />
   
   <!--Kernel-->
-  <project name="omap3dev/kernel-omap" path="kernel/motorola/minnow" remote="github" revision="android-7.1-wear" />
+  <project name="omap3dev/kernel-omap" path="kernel/motorola/omap3" remote="github" revision="android-7.1-wear" />
 
 </manifest>
